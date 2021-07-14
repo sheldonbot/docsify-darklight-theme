@@ -4,18 +4,10 @@
 <h1 align="center">Sheldon Docs</h1>
 
 <p align="center">
-    <a href="https://www.jsdelivr.com/package/npm/docsify-darklight-theme">
         <img src="https://img.shields.io/badge/version-0.4-green" alt="jsdeliver">
-    </a>
-    <a href="https://badge.fury.io/js/docsify-darklight-theme">
         <img src="https://img.shields.io/badge/python-3.8.8-blue" alt="npm-version">
-    </a>
-    <a href="https://badge.fury.io/js/docsify-darklight-theme">
         <img src="https://img.shields.io/badge/discord.py-1.7.2-blue" alt="npm-downloads">
-    </a>
-    <a href="https://badge.fury.io/gh/boopathikumar018%2Fdocsify-darklight-theme">
         <img src="https://img.shields.io/badge/build%20status-gamma-red" alt="GitHub version" height="20">
-    </a>
 </p>
 
 
