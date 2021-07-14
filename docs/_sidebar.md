@@ -4,3 +4,4 @@
 
 - Commands
   - [List](showcase.md)
+  - [Aops](cog1.md)
