@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./sh.png" alt="jsdeliver"> 
+    <img src="./sh.png" alt="sheldon"> 
 </h1>
 <h1 align="center">Sheldon Docs</h1>
 

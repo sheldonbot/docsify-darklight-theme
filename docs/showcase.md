@@ -2,7 +2,7 @@
 
 ## Aops
 ####	Aops Cog (1 command) - Aops.py Extension:
-	  sc.aops [args...]
+	  sc.aops
 	     └─ Gives random math questions
 
 ## Ascii
