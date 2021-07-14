@@ -7,3 +7,4 @@
   - [Aops](cog1.md)
   - [Ascii](cog2.md)
   - [Book](cog3.md)
+  - [Chemistry](cog4.md)

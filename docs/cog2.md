@@ -11,7 +11,7 @@ If you are using original prefix(sc.):
 ```
 If you are using your custom prefix:
 ```
-    {prefix}aops [font(optional)] [text]
+    {prefix}ascii [font(optional)] [text]
 ```
 
 ### Examples

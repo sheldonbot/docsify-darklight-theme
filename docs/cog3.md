@@ -6,11 +6,11 @@ The book command gives you the rating and description of books from goodreads.
 ### Syntax
 If you are using original prefix(sc.):
 ```
-    sc.ascii [book]
+    sc.book [book]
 ```
 If you are using your custom prefix:
 ```
-    {prefix}aops [book]
+    {prefix}book [book]
 ```
 
 ### Examples

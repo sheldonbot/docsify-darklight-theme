@@ -7,8 +7,7 @@
 	  sc.ascii [font(optional) [text]
 	     └─ Beautify some text (font list at http://artii.herokuapp.com/fonts_list).
 
-## Book
-####	Book Cog (1 command) - Book.py Extension:
+## [Book](cog3.md)
 	  sc.book [args...]
 	     └─ Returns details about books.
 
