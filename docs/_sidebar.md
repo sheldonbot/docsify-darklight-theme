@@ -6,3 +6,4 @@
   - [List](showcase.md)
   - [Aops](cog1.md)
   - [Ascii](cog2.md)
+  - [Book](cog3.md)

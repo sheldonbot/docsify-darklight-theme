@@ -2,7 +2,7 @@
 This cogs has only one command:
 ## ascii
 The ascii command is used to beautify some text you pass into wonderful ascii in various fonts as per your requirement. Sheldon Cooper always likes a good font!
-The error list can be found here: [fonts](http://artii.herokuapp.com/fonts_list)
+The font list can be found here: [fonts](http://artii.herokuapp.com/fonts_list)
 
 ### Syntax
 If you are using original prefix(sc.):
