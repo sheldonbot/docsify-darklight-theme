@@ -1,13 +1,10 @@
-[Aops](#aops), [Ascii](#ascii), [Book](#book), [Chemistry](#chemistry), [DisableCommand](#disablecommand), [Help](#help), [Invite](#invite), [Math](#math), [Morse](#morse), [OfflineUser](#offlineuser), [Poly](#poly), [Prime](#prime), [Server](#server), [ServerStats](#serverstats), [Sheldon](#sheldon), [Time](#time), [Tools](#tools), [Uptime](#uptime), [UrbanDict](#urbandict), [VoteKick](#votekick), [WatchURL](#watchurl), [Welcome](#welcome), [Wiki](#wiki)
 
-## Aops
-####	Aops Cog (1 command) - Aops.py Extension:
+## [Aops](cog1.md)
 	  sc.aops
 	     └─ Gives random math questions
 
-## Ascii
-####	Ascii Cog (1 command) - Ascii.py Extension:
-	  sc.ascii [text]
+## [Ascii](cog2.md)
+	  sc.ascii [font(optional) [text]
 	     └─ Beautify some text (font list at http://artii.herokuapp.com/fonts_list).
 
 ## Book
