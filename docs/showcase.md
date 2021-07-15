@@ -11,8 +11,7 @@
 	  sc.book [args...]
 	     └─ Returns details about books.
 
-## Chemistry
-####	Chemistry Cog (9 commands) - Chemistry.py Extension:
+## [Chemistry](cog4.md)
 	  sc.balance [args...]
 	     └─ Enter the equation in the form A<space>+<space>B<space>=><space>C<space>+<spa...
 	  sc.borbital <n>
