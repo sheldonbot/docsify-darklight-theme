@@ -3,7 +3,7 @@
   - [Support](support.md)
 
 - Commands
-  - [List](showcase.md)
+  - [List of Commands](showcase.md)
   - [Aops](cog1.md)
   - [Ascii](cog2.md)
   - [Book](cog3.md)
