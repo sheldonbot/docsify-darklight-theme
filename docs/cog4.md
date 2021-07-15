@@ -100,3 +100,21 @@ If you are using your custom prefix:
 
 ### Examples
 <img src="./img/img11.png" alt="chem">
+
+
+## em
+The em
+e.g. H, C, O
+
+### Syntax
+If you are using original prefix(sc.):
+```
+    sc.element [element]
+```
+If you are using your custom prefix:
+```
+    {prefix}element [element]
+```
+
+### Examples
+<img src="./img/img11.png" alt="chem">
